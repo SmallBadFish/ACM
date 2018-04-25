@@ -1,11 +1,11 @@
 # ACM
-chapter01
-example05 圆柱体表面积
-example06 example07 三位数反转
-example08 交换变量
-example09 鸡兔同笼
-example10 交换变量
-example11 输入三个整数 从小到大排序
+1. chapter01  
+2. example05 圆柱体表面积
+3. example06 example07 三位数反转
+4. example08 交换变量
+5. example09 鸡兔同笼
+6. example10 交换变量
+7. example11 输入三个整数 从小到大排序
 ############################################
 chapter02
 example01 example02 输出所有形如aabb的4位完全平方数
